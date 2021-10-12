@@ -1,5 +1,4 @@
 # Susana-Salazar-CV
-CV
 name: Build and Deploy
 env:
   CI: false
